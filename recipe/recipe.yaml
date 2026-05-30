@@ -1,5 +1,5 @@
 context:
-  version: "2.5.0"
+  version: "2.6.0"
 
 package:
   name: auto-changelog
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/auto-changelog/-/auto-changelog-${{ version }}.tgz
-  sha256: 0bb44736e133e65f9fa9bce2590c43e80da55b796cef7a43f668a0375ce147fe
+  sha256: ec27c5370050e5d780f033ca592ff57163444c25d2de3233aba314e53a6156ec
 
 build:
   number: 0
